@@ -1,3 +1,3 @@
-module github.com/Yutarotaro/monkey
+module monkey
 
 go 1.18
